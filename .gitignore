@@ -48,3 +48,5 @@ Thumbs.db
 *.mov
 *.wmv
 
+# vendor directory for PHP projects
+vendor/
